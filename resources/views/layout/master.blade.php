@@ -72,5 +72,8 @@
     <script src="{{ url ('assets/js/wow.min.js')}}"></script>
     <!-- Main Custom js file -->
     <script src="{{ url ('assets/js/function.js')}}"></script>
+
+    @stack('scripts')
+
 </body>
 </html>

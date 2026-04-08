@@ -89,7 +89,7 @@
                     <div class="col-md-12">
                         <!-- Footer Copyright Text Start -->
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2025 All Rights Reserved.</p>
+                            <p>© <?php echo date('Y');?> Hairloom | Developed by  Ds Innovative Solutions</p>
                         </div>
                         <!-- Footer Copyright Text End -->
                     </div>
