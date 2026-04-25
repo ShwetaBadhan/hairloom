@@ -35,7 +35,7 @@
                     <div class="about-footer">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
-                            <img src="{{ url ('assets/images/footer-logo.svg')}}" alt="">
+                            <img src="{{ url ('assets/images/logo/hairloom-logo.png')}}" style="width: 250px;" alt="">
                         </div>
                         <!-- Footer Logo End -->
 
