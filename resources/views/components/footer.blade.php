@@ -40,11 +40,11 @@
                         <!-- Footer Logo End -->
 
                         <div class="about-footer-content">
-                            <p>123 High Street, London, W1A 1AA, United Kingdom</p>
+                            <p>29 seachart place Brampton</p>
                         </div>
                         
                         <div class="about-footer-contact">
-                            <a href="tel:123468963">437-727-0515</a>
+                            <a href="tel:437-727-0515">437-727-0515</a>
                             <a href="mailto:info@domain.com">info@domain.com</a>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                     <div class="col-md-12">
                         <!-- Footer Copyright Text Start -->
                         <div class="footer-copyright-text">
-                            <p>© <?php echo date('Y');?> Hairloom | Developed by  Ds Innovative Solutions</p>
+                            <p>© <?php echo date('Y');?> Hairloom | Made with love in Canada |<a class="text-white" href="https://hairloomroots.com/"> hairloomroots.com</a></p>
                         </div>
                         <!-- Footer Copyright Text End -->
                     </div>

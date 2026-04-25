@@ -9,50 +9,36 @@
                         <div class="why-choose-content">
                             <!-- Section Title Start -->
                             <div class="section-title">
-                                <h3 class="wow fadeInUp">why choose us</h3>
-                                <h2 class="text-anime-style-2" data-cursor="-opaque">Precision drops, premium <span>quality, care you trust</span></h2>
-                                <p class="wow fadeInUp" data-wow-delay="0.2s">Our oil dropper bottles are designed for precision, ensuring controlled application with minimal waste. Made from high-quality, durable materials.</p>
+                                <h3 class="wow fadeInUp">Why Hairloom</h3>
+                                <h2 class="text-anime-style-2" data-cursor="-opaque">What Sets Us Apart <span> Slow-Infused, Not Extracted</span></h2>
+                                <p class="wow fadeInUp" data-wow-delay="0.2s">We don't cut corners with quick extraction methods. Our herbs are slow-infused, allowing maximum nutrient release and a richer, more effective oil — the way it was always meant to be made.</p>
                             </div>
                             <!-- Section Title End -->
 
-                            <!-- Why Choose Item Box Start -->
-                            <div class="why-choose-item-box wow fadeInUp" data-wow-delay="0.4s">
-                                <!-- Why Choose Item Start -->
-                                <div class="why-choose-item">
+                           <!-- About Us List Start -->
+                        <div class="about-us-list wow fadeInUp" data-wow-delay="0.4s">
+                            <ul>
+                                <li><strong>Slow-Infused, Not Extracted</strong></li>
+                                <li><strong>Nothing Artificial. Ever.</strong></li>
+                                <li><strong>Root-Level Results</strong></li>
+                                <li><strong>One Oil, Complete Care</strong></li>
+                                <li><strong>Small Batch, Big Integrity</strong></li>
+                                <li><strong>Built for Canadian Winters</strong></li>
+                                
+                            </ul>
+                        </div>
+                         <!-- About Organic Item Start -->
+                                <div class="about-organic-item wow fadeInUp" data-wow-delay="0.6s">
                                     <div class="icon-box">
-                                        <img src="{{ url ('assets/images/icon-why-choose-1.svg')}}" alt="">
+                                        <img src="{{ url ('assets/images/icon-about-organic.svg')}}" alt="">
                                     </div>
-                                    <div class="why-choose-item-content">
-                                        <h3>Premium Quality</h3>
-                                        <p>Carefully sourced, 100%, rigorously tested for excellence.</p>
-                                    </div>
-                                </div>
-                                <!-- Why Choose Item End -->
-
-                                <!-- Why Choose Item Start -->
-                                <div class="why-choose-item">
-                                    <div class="icon-box">
-                                        <img src="{{ url ('assets/images/icon-why-choose-2.svg')}}" alt="">
-                                    </div>
-                                    <div class="why-choose-item-content">
-                                        <h3>Fast & Reliable Shipping</h3>
-                                        <p>Carefully sourced, 100%, rigorously tested for excellence.</p>
+                                    <div class="about-organic-content">
+                                        <h3>Consistency is the secret ingredient.</h3>
+                                        <p>Helping to restore balance and promote overall wellness.</p>
                                     </div>
                                 </div>
-                                <!-- Why Choose Item End -->
-                            </div>
-                            <!-- Why Choose Item Box End -->
-
-                            <!-- Why Choose Body Start -->
-                            <div class="why-choose-body">
-                                <div class="icon-box">
-                                    <img src="{{ url ('assets/images/premium-quality-circle-3.png')}}" alt="">
-                                </div>
-                                <div class="why-choose-body-content wow fadeInUp" data-wow-delay="0.6s">
-                                    <p>With a commitment to sustainability and customer satisfaction, we provide reliable, stylish, and -friendly solutions you can trust. Experience the  balance of function and care—one drop at a time.</p>
-                                </div>
-                            </div>
-                            <!-- Why Choose Body End -->
+                                <!-- About Organic Item End -->
+                        <!-- About Us List End -->
                         </div>
                         <!-- Why Choose Content End -->                     
 

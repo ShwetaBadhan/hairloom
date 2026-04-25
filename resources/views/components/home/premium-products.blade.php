@@ -7,8 +7,8 @@
                     <div class="premium-products-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">Premium dropper</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Premium quality precsion design <span>pure performance</span></h2>
+                            <h3 class="wow fadeInUp">About Hairloom</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">More Than a Brand  <span> — A Reclamation</span></h2>
                         </div>
                         <!-- Section Title End -->
 

@@ -23,7 +23,7 @@
 
                         <!-- What We Circle Start -->
                         <div class="what-we-circle">
-                            <img src="{{ url ('assets/images/premium-quality-circle-2.png')}}" alt="">
+                            <img src="{{ url ('assets/images/logo/logo-text-icon.svg')}}" style="width: 180px; height:180px;" alt="">
                         </div>
                         <!-- What We Circle End -->
                     </div>
@@ -35,8 +35,9 @@
                     <div class="what-we-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">What we do ?</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Delivering precision, purity, <span>and care daily</span></h2>
+                            <h3 class="wow fadeInUp">How to Use</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Your Weekly  <span>Ritual</span></h2>
+                       <p>The ritual is just as important as the result. Set aside a few quiet minutes, warm the oil slightly in your palms, and begin at the scalp — where everything starts.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -44,15 +45,36 @@
                         <div class="what-we-item-box">
                             <!-- What We Item Start -->
                             <div class="what-we-item wow fadeInUp" data-wow-delay="0.2s">
-                                <h3>Crafting Precision for Every Drop</h3>
-                                <p>We believe that precision matters. Our expertly designed oil dropper bottles ensure controlled dispensing allowing you to use just the right amount.</p>
+                                <h3>Step 1</h3>
+                                <p>Section your hair and apply warm oil directly to the scalp.</p>
                             </div>
                             <!-- What We Item End -->
 
                             <!-- What We Item Start -->
                             <div class="what-we-item wow fadeInUp" data-wow-delay="0.4s">
-                                <h3>Designed for Essential Oils</h3>
-                                <p>We believe that precision matters. Our expertly designed oil dropper bottles ensure controlled dispensing allowing you to use just the right amount.</p>
+                                <h3>Step 2 </h3>
+                                <p>Massage gently in circular motions for 5–10 minutes.</p>
+                            </div>
+                            <!-- What We Item End -->
+
+                            <!-- What We Item Start -->
+                            <div class="what-we-item wow fadeInUp" data-wow-delay="0.6s">
+                                <h3>Step 3 </h3>
+                                <p>Work the remaining oil through the lengths of your hair.</p>
+                            </div>
+                            <!-- What We Item End -->
+
+                            <!-- What We Item Start -->
+                            <div class="what-we-item wow fadeInUp" data-wow-delay="0.8s">
+                                <h3>Step 4 </h3>
+                                <p>Leave in for a minimum of 1 hour to maximum 4 hours, never leave it  overnight.</p>
+                            </div>
+                            <!-- What We Item End -->
+
+                            <!-- What We Item Start -->
+                            <div class="what-we-item wow fadeInUp" data-wow-delay="1s">
+                                <h3>Step 5 </h3>
+                                <p>Wash out with your regular shampoo. Repeat 1–2 times per week.</p>
                             </div>
                             <!-- What We Item End -->
                         </div>

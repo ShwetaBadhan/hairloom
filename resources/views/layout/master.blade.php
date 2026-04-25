@@ -11,7 +11,7 @@
 	<!-- Page Title -->
     <title>Hairloom Root Nourishing Oil</title>
 	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="{{ url ('assets/images/favicon.png')}}">
+	<link rel="shortcut icon" type="image/x-icon" href="{{ url ('assets/images/logo/hairloom - icon.svg')}}">
 	<!-- Google Fonts Css-->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">

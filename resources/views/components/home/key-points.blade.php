@@ -5,8 +5,8 @@
                 <div class="col-lg-6">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">our key points</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Superior design, precision <span>drop lasting quality</span></h2>
+                        <h3 class="wow fadeInUp">Product Description</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">The Slow-Infused  <span>Herbal Hair Oil</span></h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -14,7 +14,8 @@
                 <div class="col-lg-6">
                     <!-- Section Title Content Start -->
                     <div class="section-title-content wow fadeInUp" data-wow-delay="0.2s">
-                        <p>Crafted with superior design, engineered with precision, and built to  commitment to excellence ensures every detail is meticulously perfected, delivering unparalleled quality and durability.</p>
+                        <p>Real nourishment can't be rushed. That's why we slow-infuse every batch of Hairloom over time, coaxing the full potency of each herb into the oil so it can do what no serum or spray ever could — work at the root.</p>
+                        <p>Massaged into the scalp, Hairloom penetrates deeply, awakening dormant follicles, calming irritation, and laying the foundation for hair that grows stronger from within. It's not a quick fix. It's a quiet commitment to your hair's long-term health.</p>
                     </div>
                     <!-- Section Title Content End -->
                 </div>
@@ -27,11 +28,11 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-1.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/amla.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>Preserves Purity</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Amla </h3>
+                                <p>The ancient growth booster, rich in Vitamin C and antioxidants</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->
@@ -39,11 +40,11 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-2.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/coconut.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>Travel Friendly</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Coconut Oil</h3>
+                                <p>Prevents protein loss and reduces breakage, deeply moisturizes hair</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->
@@ -51,11 +52,11 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.8s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-3.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/reetha.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>Preserves Purity</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Reetha</h3>
+                                <p>A natural cleanser that purifies the scalp without stripping it</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->
@@ -79,11 +80,11 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-4.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/Shikakai.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>100% Pure Oils</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Shikakai </h3>
+                                <p>Strengthens strands and promotes softness from root to tip</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->
@@ -91,11 +92,11 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.6s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-5.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/Fenugreek.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>Eco Friendly</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Fenugreek </h3>
+                                <p>Targets thinning and feeds the follicle with essential proteins</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->
@@ -103,11 +104,22 @@
                         <!-- Key Point Item Start -->
                         <div class="key-points-item wow fadeInUp" data-wow-delay="0.8s">
                             <div class="icon-box">
-                                <img src="{{ url ('assets/images/icon-key-points-6.svg')}}" alt="">
+                                <img src="{{ url ('assets/images/product/Black Sesame.svg')}}" alt="">
                             </div>
                             <div class="key-points-item-content">
-                                <h3>Trusted by Experts</h3>
-                                <p>Ensures natural essence, free and from toxins, additives</p>
+                                <h3>Black Sesame</h3>
+                                <p>Deep nourishment for dry, damaged hair, reduces growth of grey hair</p>
+                            </div>
+                        </div>
+                        <!-- Key Point Item End -->
+                        <!-- Key Point Item Start -->
+                        <div class="key-points-item wow fadeInUp" data-wow-delay="0.8s">
+                            <div class="icon-box">
+                                <img src="{{ url ('assets/images/product/Rosemary.svg')}}" alt="">
+                            </div>
+                            <div class="key-points-item-content">
+                                <h3>Rosemary </h3>
+                                <p>Clinically recognized for stimulating circulation and growth</p>
                             </div>
                         </div>
                         <!-- Key Point Item End -->

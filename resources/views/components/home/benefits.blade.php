@@ -13,7 +13,7 @@
 
                         <div class="benefit-quality-circle">
                             <figure>
-                                <img src="{{ url ('assets/images/premium-quality-circle-2.png')}}" alt="">
+                                <img src="{{ url ('assets/images/logo/logo-text-icon.svg')}}" style="width: 180px; height: 180px;" alt="">
                             </figure>
                         </div>
                     </div>
@@ -39,8 +39,8 @@
                                         <img src="{{ url ('assets/images/icon-benefit-1.svg')}}" alt="">
                                     </div>    
                                     <div class="benefit-item-content">
-                                        <h3>natural healing & wellness</h3>
-                                        <p>Supports overall health, immunity, and promotes well-being.</p>
+                                        <h3>Reduces hair fall and breakage</h3>
+                                        {{-- <p>Supports overall health, immunity, and promotes well-being.</p> --}}
                                     </div>
                                 </div>
                                 <!-- Benefit Item End -->
@@ -51,8 +51,8 @@
                                         <img src="{{ url ('assets/images/icon-benefit-2.svg')}}" alt="">
                                     </div>    
                                     <div class="benefit-item-content">
-                                        <h3>skin & beauty care  </h3>
-                                        <p>Supports overall health, immunity, and promotes well-being.</p>
+                                        <h3>Promotes new growth, volume  and thickness  </h3>
+                                        {{-- <p>Supports overall health, immunity, and promotes well-being.</p> --}}
                                     </div>
                                 </div>
                                 <!-- Benefit Item End -->
@@ -67,8 +67,8 @@
                                         <img src="{{ url ('assets/images/icon-benefit-3.svg')}}" alt="">
                                     </div>    
                                     <div class="benefit-item-content">
-                                        <h3>home purification</h3>
-                                        <p>Supports overall health, immunity, and promotes well-being.</p>
+                                        <h3>Soothes and balances the scalp</h3>
+                                        {{-- <p>Supports overall health, immunity, and promotes well-being.</p> --}}
                                     </div>
                                 </div>
                                 <!-- Benefit Item End -->
@@ -79,13 +79,14 @@
                                         <img src="{{ url ('assets/images/icon-benefit-4.svg')}}" alt="">
                                     </div>    
                                     <div class="benefit-item-content">
-                                        <h3>non-toxic & eco-friendly</h3>
-                                        <p>Supports overall health, immunity, and promotes well-being.</p>
+                                        <h3>Restores moisture to dry, brittle strands</h3>
+                                        {{-- <p>Supports overall health, immunity, and promotes well-being.</p> --}}
                                     </div>
                                 </div>
                                 <!-- Benefit Item End -->
                             </div>
                             <!-- Benefit Item Box End -->
+                           
                         </div>
                         <!-- Benefit Body End -->
                     </div>

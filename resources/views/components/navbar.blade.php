@@ -5,7 +5,7 @@
 				<div class="container">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="">
-						<img src="{{ url ('assets/images/logo.svg')}}" alt="Logo">
+						<img src="{{ url ('assets/images/logo/hairloom-logo.png')}}" style="width: 250px;" alt="Logo">
 					</a>
 					<!-- Logo End -->
 

@@ -22,12 +22,9 @@
                    <div class="hero-content">
                        <!-- Section Title Start -->
                        <div class="section-title">
-                           <h3 class="wow fadeInUp">Discover the power of premium</h3>
-                           <h1 class="text-anime-style-2" data-cursor="-opaque">Pure drops perfect precision <span>care
-                                   you can trust.</span></h1>
-                           <p class="wow fadeInUp" data-wow-delay="0.2s">Experience the perfect balance of purity and
-                               precision with our premium oil droppers Designed for effortless application, our
-                               high-quality droppers ensure accurate dispensing, minimal waste, and maximum potency.</p>
+                           <h3 class="wow fadeInUp">Crafted with Care. Rooted in Tradition.</h3>
+                           <h1 class="text-anime-style-2" data-cursor="-opaque">Your roots remember  <span>what the world forgot.</span></h1>
+                           <p class="wow fadeInUp" data-wow-delay="0.2s">Hairloom is a slow-infused organic herbal hair oil born from the quiet wisdom of grandmothers and the healing power of ancient botanicals. We didn't invent hair care — we revived it.</p>
                        </div>
                        <!-- Section Title End -->
 
@@ -35,7 +32,7 @@
                        <div class="hero-content-body wow fadeInUp" data-wow-delay="0.4s">
                            <!-- Hero Button Start -->
                            <div class="hero-btn">
-                               <a href="#contact-us" class="btn-default btn-highlighted">Purchase Now</a>
+                               <a href="#contact-us" class="btn-default btn-highlighted">Shop the Oil</a>
                            </div>
                            <!-- Hero Button End -->
 
@@ -65,7 +62,7 @@
 
                        <!-- Premium Quality Circle Start -->
                        <div class="premium-quality-circle">
-                           <img src="{{ url('assets/images/premium-quality-circle-1.png') }}" alt="">
+                           <img src="{{ url('assets/images/logo/icon-logo-text.svg') }}" style="width: 141px; height: 141px;" alt="">
                        </div>
                        <!-- Premium Quality Circle End -->
                    </div>

@@ -69,7 +69,7 @@
                                             <i class="fa-solid fa-star"></i>
                                         </div>                              
                                         <div class="testimonial-content">
-                                            <p>"These oil droppers are perfect for my essential oil blends! The precision and  outstanding of Highly recommend many dropper bottles, but these are by far the best. No leaks, no waste—just pure convenience!"</p>
+                                            <p>"I noticed less hair in my brush within two weeks. This oil smells like something my grandmother used to make — and it works just as well." </p>
                                         </div>
                                         <div class="testimonial-body">
                                             <div class="testimonial-author">
@@ -79,8 +79,8 @@
                                                     </figure>
                                                 </div>
                                                 <div class="author-content">
-                                                    <h3>Jenny Wilson</h3>
-                                                    <p>Aromatherapist</p>
+                                                    <h3>Priya S., Toronto</h3>
+                                                    {{-- <p>Aromatherapist</p> --}}
                                                 </div>
                                             </div> 
                                             <div class="testimonial-quote">
@@ -102,7 +102,7 @@
                                             <i class="fa-solid fa-star"></i>
                                         </div>                              
                                         <div class="testimonial-content">
-                                            <p>"These oil droppers are perfect for my essential oil blends! The precision and  outstanding of Highly recommend many dropper bottles, but these are by far the best. No leaks, no waste—just pure convenience!"</p>
+                                            <p>"Finally a hair oil that doesn't leave my scalp greasy or my hair weighed down. The slow infusion process really does make a difference." </p>
                                         </div>
                                         <div class="testimonial-body">
                                             <div class="testimonial-author">
@@ -112,8 +112,8 @@
                                                     </figure>
                                                 </div>
                                                 <div class="author-content">
-                                                    <h3>Sophia Reynolds</h3>
-                                                    <p>Herbalist</p>
+                                                    <h3>Anika R., Mississauga</h3>
+                                                    {{-- <p>Herbalist</p> --}}
                                                 </div>
                                             </div> 
                                             <div class="testimonial-quote">
@@ -135,7 +135,7 @@
                                             <i class="fa-solid fa-star"></i>
                                         </div>                              
                                         <div class="testimonial-content">
-                                            <p>"These oil droppers are perfect for my essential oil blends! The precision and  outstanding of Highly recommend many dropper bottles, but these are by far the best. No leaks, no waste—just pure convenience!"</p>
+                                            <p>"I've tried so many products for hair fall. Hairloom is the first one that felt like it was actually feeding my scalp, not just coating my hair."</p>
                                         </div>
                                         <div class="testimonial-body">
                                             <div class="testimonial-author">
@@ -145,8 +145,8 @@
                                                     </figure>
                                                 </div>
                                                 <div class="author-content">
-                                                    <h3>Michael Carter</h3>
-                                                    <p>Aromatherapist</p>
+                                                    <h3>Meera J., Brampton</h3>
+                                                    {{-- <p>Aromatherapist</p> --}}
                                                 </div>
                                             </div> 
                                             <div class="testimonial-quote">
